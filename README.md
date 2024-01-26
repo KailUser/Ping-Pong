@@ -1,4 +1,6 @@
 
+![Image](https://store-images.s-microsoft.com/image/apps.39582.13588747584706789.91374606-2ba3-4eb1-a992-5421b499af89.05c768c4-49ed-40c4-a818-717a71f62e62?mode=scale&q=90&h=200&w=200&background=%23000000)
+
 # Пинг Понг(Ping Pong)
 
 Пинг Понг - это игра для 2 игроков 
