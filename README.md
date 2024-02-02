@@ -55,4 +55,4 @@ python ping_pong.py
 
 ## Лицензия
 
-Эта игра распространяется под лицензией Creative Commons Legal Code. Подробности в файле [LICENSE](LICENSE).
+Эта игра распространяется под лицензией Creative Commons Zero v1.0 Universal. Подробности в файле [LICENSE](LICENSE).
